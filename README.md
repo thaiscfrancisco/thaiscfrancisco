@@ -7,10 +7,10 @@ Estudante de Análise e Desenvolvimento de Sistemas e PHD em n00bice.
   <a href="https://github.com/thaiscfrancisco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaiscfrancisco&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiscfrancisco&layout=compact&langs_count=7&theme=bear"/>
-  <img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ? username = thaiscfrancisco & repo = github-readme-stats "/> 
+  <img  align="center" src=" https://github-readme-stats.vercel.app/api/pin/?username=thaiscfrancisco&repo=github-readme-stats"/> 
  </A>
-  <a  href =" https://github.com/thaiscfrancisco/convoychat "> 
-  <img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ? username = thaiscfrancisco & repo = convoychat "/> 
+  <a  href="https://github.com/thaiscfrancisco/convoychat"> 
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thaiscfrancisco&repo=convoychat"/> 
  </a> 
 </div>
 
