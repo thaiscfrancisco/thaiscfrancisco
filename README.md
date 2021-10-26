@@ -9,9 +9,6 @@ Estudante de Análise e Desenvolvimento de Sistemas e PHD em n00bice.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiscfrancisco&layout=compact&langs_count=7&theme=bear"/>
   <img  align="center" src=" https://github-readme-stats.vercel.app/api/pin/?username=thaiscfrancisco&repo=github-readme-stats"/> 
  </A>
-  <a  href="https://github.com/thaiscfrancisco/convoychat"> 
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thaiscfrancisco&repo=convoychat"/> 
- </a> 
 </div>
 
 
